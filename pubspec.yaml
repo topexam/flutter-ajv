@@ -6,7 +6,7 @@ repository: https://github.com/topexam/flutter-ajv
 topics:
   - form
   - validation
-  - json schema
+  - jsonschema
   - ajv
 
 environment:
