@@ -1,3 +1,3 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+- Create `AJVValidator` and implement validation logic with AJV.js

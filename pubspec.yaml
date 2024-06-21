@@ -1,7 +1,13 @@
 name: flutter_ajv
-description: "AJV Validator"
-version: 0.0.0
-homepage: "https://github.com/topexam/flutter-ajv"
+description: AJV Validator
+version: 0.0.1
+homepage: https://github.com/topexam/flutter-ajv
+repository: https://github.com/topexam/flutter-ajv
+topics:
+  - form
+  - validation
+  - json schema
+  - ajv
 
 environment:
   sdk: ">=3.3.0 <4.0.0"
